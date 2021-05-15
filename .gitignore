@@ -1,0 +1,10 @@
+/.gradle/
+/.idea/
+/gradle/
+gradle.properties
+.idea
+.navigation
+/captures
+*.imlgit
+gradlew
+gradlew.bat
